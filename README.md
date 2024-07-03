@@ -88,5 +88,3 @@ Jeet Karena - [LinkedIn](https://www.linkedin.com/in/jeet-karena)
 Project Link: [https://github.com/JeetKarena/Deep-learning](https://github.com/JeetKarena/Deep-learning)
 
 ---
-
-This README provides a structured and detailed overview of the repository, aligning with best practices and the requirements of the job listing. Feel free to customize further based on any additional content or specific instructions you may have.

@@ -1,5 +1,3 @@
-I reviewed the GitHub repository at [JeetKarena/Deep-learning](https://github.com/JeetKarena/Deep-learning). Here are the main elements:
-
 1. **Structure**:
    - The repository contains folders for "Perceptron" and "TensorFlow."
    - It includes a `.gitignore` file, a `LICENSE` file under GPL-3.0, and a `README.md` file.

@@ -33,7 +33,8 @@ Deep-learning/
 ├── TensorFlow/           # Contains TensorFlow-based models and scripts
 ├── .gitignore            # Specifies files to ignore in git repository
 ├── LICENSE               # License information
-└── README.md             # This README file
+├── README.md             # This README file
+└── requirements.txt      # Requirements file
 ```
 
 ## Getting Started

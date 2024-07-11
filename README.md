@@ -33,7 +33,8 @@ Deep-learning/
 ├── TensorFlow/           # Contains TensorFlow-based models and scripts
 ├── .gitignore            # Specifies files to ignore in git repository
 ├── LICENSE               # License information
-└── README.md             # This README file
+├── README.md             # This README file
+└── requirements.txt      # Requirements file
 ```
 
 ## Getting Started
@@ -87,5 +88,3 @@ Jeet Karena - [LinkedIn](https://www.linkedin.com/in/jeet-karena)
 Project Link: [https://github.com/JeetKarena/Deep-learning](https://github.com/JeetKarena/Deep-learning)
 
 ---
-
-This README provides a structured and detailed overview of the repository, aligning with best practices and the requirements of the job listing. Feel free to customize further based on any additional content or specific instructions you may have.
